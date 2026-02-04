@@ -98,10 +98,10 @@ I am a senior undergraduate student at **[Universitatea Politehnica Timisoara](h
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daria-1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daria-1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-1303&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  <br>
+  <br />
   <img src="https://streak-stats.demolab.com?user=Daria-1303&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Daria-1303&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge"/>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Daria-1303&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor badge" />
 </div>
