@@ -17,7 +17,6 @@
 I am a senior undergraduate student at **[Universitatea Politehnica Timisoara](https://upt.ro)**, passionate about solving complex engineering challenges. My expertise ranges from **low-level structural RTL** for FPGA and Linux system programming to building **scalable full-stack web platforms** and Android applications.
 
 * 🔭 **Currently working on:** Advanced Autonomous Navigation & Sensor Fusion for FTC Robotics.
-* 🌱 **Learning:** Real-time Operating Systems (RTOS), SystemVerilog & Cloud Architecture.
 * ⚡ **Core Focus:** T-Shaped Engineering (Hardware + Software).
 
 ---
