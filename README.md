@@ -88,32 +88,33 @@ I am a senior undergraduate student at **[Universitatea Politehnica Timisoara](h
 
 ---
 
-## 🔩 Hardware, Embedded & Systems Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **AtomC Compiler** | Full compiler for a **C-like language** built from scratch: lexer → recursive-descent parser → type checker → stack-based VM (six phases, ~35 opcodes). | ![C11](https://img.shields.io/badge/-C11-blue) ![CMake](https://img.shields.io/badge/-CMake-green) | [View Repo](https://github.com/dariaciobanu13/AtomC-Compiler) |
-| **FPGA Video Pipeline** | **Hardware-accelerated** video transmission system on Artix-7 FPGA. Features real-time filters (Grayscale/Invert) and VGA output @ 60Hz. | ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![Vivado](https://img.shields.io/badge/-Vivado-green) | [View Repo](https://github.com/Low-Cortisol-Computing/FPGA-Video-Transmission-and-Image-Processing) |
-| **POSIX Treasure Hunt** | Multi-process Linux app using `fork`, `exec`, and robust **IPC** (Signals/Pipes) to prevent zombie processes. Includes a custom CLI. | ![C](https://img.shields.io/badge/-C-blue) ![Linux](https://img.shields.io/badge/-Linux-black) | [View Repo](https://github.com/dariaciobanu13/Treasure_Hunt) |
-| **Benchmarking Suite** | Automated hybrid benchmarking tool designed to evaluate system performance by combining low-level hardware metrics with real-world workloads. | ![Python](https://img.shields.io/badge/-Python-yellow) ![Bash](https://img.shields.io/badge/-Bash-black) | [View Repo](https://github.com/Calculatoare-Numerice-Proiect/CN_bonus_Daria_Radu) |
-| **4-Way Cache Controller** | Structural RTL implementation of a **Level-1 Cache** in Verilog. Features 4-Way Set Associativity, Write-Back policy, and Dirty Bit tracking. | ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![RTL](https://img.shields.io/badge/-RTL-orange) | [View Repo](https://github.com/Calculatoare-Numerice-Proiect/Cache-Controller) |
-| **8-bit Structural ALU** | Implemented **Booth's Algorithm** (Radix-4) for multiplication and **SRT Algorithm** (Radix-2) for division using structural gate-level design. | ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![Digital_Logic](https://img.shields.io/badge/-Logic-purple) | [View Repo](https://github.com/Calculatoare-Numerice-Proiect/ALU) |
-| **IoT Weather Station** | Hybrid IoT system validating **OpenWeatherMap API** data against local sensor readings using a custom HTTP client on embedded hardware. | ![C++](https://img.shields.io/badge/-C++-blue) ![IoT](https://img.shields.io/badge/-IoT-orange) | [View Repo](https://github.com/DEM-Arduino-Project/Temp-and-Humidity-Readings-via-OpenWeather-API) |
-| **Real-Time FFT Analyzer** | Engineered a real-time spectral analysis system on 32-bit microcontrollers, validated against **MATLAB** simulations for high accuracy. | ![C++](https://img.shields.io/badge/-C++-blue) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) | [View Repo](https://github.com/DEM-Arduino-Project/FFT) |
-
-<br>
-
 ## 💻 Software, Web & Mobile Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **Vibecodium** | Real-time collaborative cloud IDE with an embedded AI agent — **1st Place, iTEC 2026** (6-person team). Owned the Yjs CRDT collaboration layer and the AI agent tool-use loop. | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![React](https://img.shields.io/badge/-React-61DAFB) ![Bun](https://img.shields.io/badge/-Bun-black) | [View Repo](https://github.com/paulhondola/vibecodium) |
 | **Emperor Robotics Platform** | Scalable **Full-Stack Web Platform** built with **Angular** and **NestJS** within an **Nx Monorepo**. Features lazy loading and strict typing. | ![Angular](https://img.shields.io/badge/-Angular-red) ![NestJS](https://img.shields.io/badge/-NestJS-red) | [View Website](https://theemperor124.netlify.app/) |
-| **Autonomous Nav (FTC)** | Robotics control system featuring **Spline-based Path Planning** (RoadRunner), PID controllers, and **Sensor Fusion** (OTOS) for localization. | ![Java](https://img.shields.io/badge/-Java-orange) ![Android](https://img.shields.io/badge/-Android-green) | [View Repo](https://github.com/The-Emperor-124/The_Emperor_Decode) |
+| **Autonomous Nav (FTC)** | Robotics control system featuring **Spline-based Path Planning** (RoadRunner), PID controllers, and **Sensor Fusion** (OTOS) for localization. | ![Java](https://img.shields.io/badge/-Java-orange) ![Android](https://img.shields.io/badge/-Android-green) |  |
 | **SafetyMap** | Native Android app for community hazard reporting. Features **Google Maps API** integration, **Geofencing** alerts, and a trust score algorithm. | ![Java](https://img.shields.io/badge/-Java-orange) ![Firebase](https://img.shields.io/badge/-Firebase-yellow) | [View Repo](https://github.com/UniHack2024/SafetyMap) |
 | **Metronom** | Professional-grade Android tool with **nanosecond precision** audio engine (AudioTrack) and custom **Canvas-based** pendulum animations. | ![Kotlin](https://img.shields.io/badge/-Kotlin-purple) ![Android](https://img.shields.io/badge/-Android-green) | [View Repo](https://github.com/dariaciobanu13/Metronom) |
 | **Gallery Cleaner** | Photo organization tool using **MVVM** architecture. Implements bulk deletion logic via MediaStore API and optimized image loading with **Glide**. | ![Java](https://img.shields.io/badge/-Java-orange) ![MVVM](https://img.shields.io/badge/-MVVM-blue) |  |
 | **CV Maker** | High-performance **Vanilla TypeScript** resume builder featuring a custom programmatic **PDF generation engine** (jsPDF) for LaTeX-quality export. | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Vite](https://img.shields.io/badge/-Vite-purple) | [View Website](https://dariaciobanu13.github.io/CV_maker/) |
+
+
+<br>
+
+## 🔩 Hardware, Embedded & Systems Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **AtomC Compiler** | Full compiler for a **C-like language** built from scratch: lexer → recursive-descent parser → type checker → stack-based VM (six phases, ~35 opcodes). | ![C11](https://img.shields.io/badge/-C11-blue) ![CMake](https://img.shields.io/badge/-CMake-green) | [View Repo](https://github.com/dariaciobanu13/AtomC-Compiler) |
+| **FPGA Video Pipeline** | **Hardware-accelerated** video transmission system on Artix-7 FPGA. Features real-time filters (Grayscale/Invert) and VGA output @ 60Hz. | ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![Vivado](https://img.shields.io/badge/-Vivado-green) |  |
+| **POSIX Treasure Hunt** | Multi-process Linux app using `fork`, `exec`, and robust **IPC** (Signals/Pipes) to prevent zombie processes. Includes a custom CLI. | ![C](https://img.shields.io/badge/-C-blue) ![Linux](https://img.shields.io/badge/-Linux-black) | [View Repo](https://github.com/dariaciobanu13/Treasure_Hunt) |
+| **Benchmarking Suite** | Automated hybrid benchmarking tool designed to evaluate system performance by combining low-level hardware metrics with real-world workloads. | ![Python](https://img.shields.io/badge/-Python-yellow) ![Bash](https://img.shields.io/badge/-Bash-black) |  |
+| **4-Way Cache Controller** | Structural RTL implementation of a **Level-1 Cache** in Verilog. Features 4-Way Set Associativity, Write-Back policy, and Dirty Bit tracking. | ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![RTL](https://img.shields.io/badge/-RTL-orange) | |
+| **8-bit Structural ALU** | Implemented **Booth's Algorithm** (Radix-4) for multiplication and **SRT Algorithm** (Radix-2) for division using structural gate-level design. | ![Verilog](https://img.shields.io/badge/-Verilog-blue) ![Digital_Logic](https://img.shields.io/badge/-Logic-purple) |  |
+| **IoT Weather Station** | Hybrid IoT system validating **OpenWeatherMap API** data against local sensor readings using a custom HTTP client on embedded hardware. | ![C++](https://img.shields.io/badge/-C++-blue) ![IoT](https://img.shields.io/badge/-IoT-orange) | |
+| **Real-Time FFT Analyzer** | Engineered a real-time spectral analysis system on 32-bit microcontrollers, validated against **MATLAB** simulations for high accuracy. | ![C++](https://img.shields.io/badge/-C++-blue) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange) | |
 
 ---
 
